@@ -6,4 +6,5 @@ INSTRUCTIONS
 2. Download GABB from my page at GitHub or my discord. Every other download is fake, and likely contain viruses.
 3. Drag the ZIP-folder to your desktop.
 4. Doubleclick on GABB.exe
+
 Congratulations! You now have GABB installed. I show how to make bots on my youtube video. You can find it here: https://youtu.be/Z2CXZq8o3Bw
